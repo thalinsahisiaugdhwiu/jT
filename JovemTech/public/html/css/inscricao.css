@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px 0;
+}
+form label, form p{
+    display: block;
+    margin: 0 0 10px;
+}
+form input, form textarea{
+    display: block;
+    margin: 0 0 10px;
+    width: 50%;
+}
